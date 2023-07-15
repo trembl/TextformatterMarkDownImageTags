@@ -7,9 +7,9 @@ Instead of outputting `<img src="...`, it would be enough to just get the image 
 
 The following example assume, that your Field is called `images`:
 
-`![]({images:1}){.w-50}`
-`![some alt text]({images:2}){.w-30}`
-`![some more text]({images:3}){.w-10}`
+`![]({images:1}){.w-50}`  
+`![some alt text]({images:2}){.w-30}`  
+`![some more text]({images:3}){.w-10}`  
 
 _.w-50, .w-30, .w-10 is from [Tachyons CSS](http://tachyons.io). Use which suits your project best._
 
